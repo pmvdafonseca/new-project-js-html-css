@@ -316,9 +316,12 @@ fieldset {
     width: 50%;
     margin: 40px auto;
     color:#fff;
-    border-left: 2px solid black;
+    border-left: 2px solid white;
     padding: 20px;
     font-size: medium;
     width: auto;
     height: auto;
+    position: relative;
+    left: 10px;
+    bottom: 135px;
   }
