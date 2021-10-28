@@ -112,8 +112,7 @@ body {
     cursor: pointer;
     color: rgba(255, 255, 255, 0.8);
     font-size: 24px;
-
-
+ 
 }
 
 .active {
@@ -310,3 +309,16 @@ fieldset {
 :-ms-input-placeholder {
     color: #888;
 }
+
+#timedate {
+    font: small-caps lighter 43px/150% "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    text-align:left;
+    width: 50%;
+    margin: 40px auto;
+    color:#fff;
+    border-left: 2px solid black;
+    padding: 20px;
+    font-size: medium;
+    width: auto;
+    height: auto;
+  }
