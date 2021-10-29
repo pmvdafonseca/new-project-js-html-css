@@ -343,7 +343,7 @@ fieldset {
 
 
 footer.fixar-rodape{
-    border-top: 1px solid #2376ae ;
+    
     bottom: 0;
     left: 0;
     height: 13px;
@@ -354,3 +354,7 @@ footer.fixar-rodape{
     font-size: 10px;
     
   }
+
+select#flista{
+    width: 150px;
+}
